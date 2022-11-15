@@ -73,7 +73,7 @@ function App() {
               seekers and recruiters and pay and earn cryptocurrency
             </p>
           </div>
-          <div className="lg:px-[12.5rem] px-[6rem]">
+          <div className="lg:px-[13rem] px-[6rem]">
             <a
               href="google.com"
               className="flex  items-center px-[0.75rem] font-medium rounded-md text-[14px] text-[#26619C] py-2 bg-[#26619C]/10"
